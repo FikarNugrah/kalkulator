@@ -20,7 +20,7 @@ body {
 .Kalkulator {
   background-color: rgb(245, 245, 245);
   width: auto;
-  height: 80%;
+  height: auto;
   border-radius: 30px;
   padding: 10px;
 }
