@@ -36,6 +36,7 @@ function back() {
   // }
 }
 
+// membersihkan / menghapus semua value yang diinput
 function clean() {
   document.form.textarea.value = "0";
 }
